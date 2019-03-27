@@ -1,0 +1,59 @@
+
+.card-panel{
+    box-shadow: 8px 10px 5px 5px rgba(109, 113, 116, 0.5)
+      
+  }
+  img .center{
+      height: 10;
+      width: 20;
+      background-color: aqua;
+  }
+  
+  h3{
+      font-family: 'Parisienne', cursive;
+      font-display: bold;
+  }
+  h6{
+      font-family: 'Dancing Script', cursive;
+  }
+  h1,
+  h5,
+  h4{ 
+      font-family: 'Tangerine', cursive;
+  }
+  
+  img .image {
+      width: 100%;
+      height: 100px;
+  }
+  .btn{
+      border-radius: 70px;
+  }
+  
+  .lokasi{
+      background-image: url('img/bg-map.png');
+     ;
+  }
+  .about{
+      background-image: url('img/d.jpeg');
+      background-repeat: no-repeat;
+      background-size: 100% 100%;
+      opacity: 0.8
+  }
+  .text{
+      background-image: url('img/bg-gray.png');
+  }
+  .penutup{
+      background-image: url('img/bg-pink.png');
+  }
+  section{
+      padding: 20px 0;
+  }
+  .buku{
+    
+      padding-top: 20px 0px;
+  }
+
+  img{
+      background-color: black;
+  }
